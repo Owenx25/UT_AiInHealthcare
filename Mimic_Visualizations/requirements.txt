@@ -1,0 +1,6 @@
+pandas
+matplotlib
+seaborn
+wordcloud
+plotly
+nbformat>=4.2.0
