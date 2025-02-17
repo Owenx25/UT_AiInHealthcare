@@ -1,0 +1,9 @@
+pandas
+spacy
+numpy==1.26.4
+scispacy
+medspacy
+tqdm
+gensim
+scikit-learn
+matplotlib
