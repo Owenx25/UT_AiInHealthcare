@@ -1,0 +1,10 @@
+pandas
+matplotlib
+torch
+scikit-learn
+plotly
+nbformat>=4.2.0 
+seaborn
+nbconvert
+pandoc
+notebook-as-pdf

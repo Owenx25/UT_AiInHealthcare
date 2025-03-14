@@ -174,4 +174,5 @@ cython_debug/
 .pypirc
 
 **/data
-**/*.pptx
+**/~*.pptx
+.DS_store
