@@ -1,0 +1,1722 @@
+[
+  {
+    "encounter_id": "d4cb22e7-2477-1fe5-1ac0-9ab247518ed2",
+    "patient_id": "f3884e8a-8b36-1e93-66dd-e910dfab2ef5",
+    "conditions": [
+      "Stress (finding)",
+      "Gingivitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Screening for domestic abuse (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Counseling for stress management\n2. Oral hygiene education\n3. Dental prophylaxis\n4. Scaling and root planing\n5. Periodontal maintenance\n6. Fluoride treatment\n7. Antimicrobial therapy for gingivitis\n8. Dental examination\n9. Oral health assessment\n10. Referral to a mental health professional",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Stress (finding)\n- Gingivitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "5b3f9813-da86-c9ef-c4c7-57f35e5b7e31",
+    "patient_id": "2ce5c76d-8d65-1347-33c5-7d0cbf3f1b2b",
+    "conditions": [
+      "Medication review due (situation)"
+    ],
+    "actual_procedures": [
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Medication reconciliation\n3. Medication management\n4. Comprehensive medication assessment\n5. Medication therapy management\n6. Review of medication adherence\n7. Assessment of medication side effects\n8. Patient education on medications\n9. Adjustment of medication regimen\n10. Consultation for medication-related issues",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "2051d922-1264-715f-8083-701d71f637fc",
+    "patient_id": "cb1b46a1-9cb5-1187-ccc5-9fb7b98aa957",
+    "conditions": [
+      "Full-time employment (finding)",
+      "Stress (finding)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of substance use (procedure)",
+      "Screening for drug abuse (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Counseling\n2. Stress management therapy\n3. Cognitive behavioral therapy\n4. Relaxation training\n5. Psychotherapy\n6. Occupational therapy\n7. Mindfulness training\n8. Support group therapy\n9. Medication management\n10. Lifestyle modification counseling",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Full-time employment (finding)\n- Stress (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "117be462-c702-8d69-3135-bd168d4662ef",
+    "patient_id": "4f7a6432-3814-be2f-eb8a-1db4fe90e12d",
+    "conditions": [
+      "Medication review due (situation)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Medication reconciliation\n3. Medication management\n4. Comprehensive medication assessment\n5. Pharmacotherapy consultation\n6. Medication therapy management\n7. Review of medication adherence\n8. Assessment of medication side effects\n9. Evaluation of drug interactions\n10. Patient education on medications",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "13bef0b4-bd12-88f1-b006-1f247cf66ec5",
+    "patient_id": "12696753-a126-88f4-da66-a87c70d2cad7",
+    "conditions": [
+      "Medication review due (situation)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening using Patient Health Questionnaire Nine Item score (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Medication reconciliation\n3. Medication management\n4. Comprehensive medication assessment\n5. Medication therapy management\n6. Review of medication adherence\n7. Assessment of medication side effects\n8. Evaluation of drug interactions\n9. Patient education on medications\n10. Follow-up on medication changes",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "0f04c48b-527d-2a0b-2514-2ee7a8038364",
+    "patient_id": "97df0b48-a67b-9b95-31c0-99bd722fd28e",
+    "conditions": [
+      "Normal pregnancy (finding)"
+    ],
+    "actual_procedures": [
+      "Standard pregnancy test (procedure)",
+      "Ultrasound scan for fetal viability (procedure)",
+      "Evaluation of uterine fundal height (procedure)",
+      "Auscultation of the fetal heart (procedure)",
+      "Blood group typing (procedure)",
+      "Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure)",
+      "Hepatitis B surface antigen measurement (procedure)",
+      "Human immunodeficiency virus antigen test (procedure)",
+      "Chlamydia antigen test (procedure)",
+      "Gonorrhea infection titer test (procedure)",
+      "Syphilis infectious titer test (procedure)",
+      "Urine culture (procedure)",
+      "Cytopathology procedure  preparation of smear  genital source (procedure)",
+      "Urine screening test for diabetes (procedure)",
+      "Hepatitis C antibody  confirmatory test (procedure)",
+      "Rubella screening test (procedure)",
+      "Measurement of Varicella-zoster virus antibody (procedure)",
+      "Skin test for tuberculosis  Tine test (procedure)",
+      "Urine protein test",
+      "Physical examination procedure (procedure)"
+    ],
+    "predicted_procedures": "1. Antenatal care\n2. Routine prenatal screening\n3. Ultrasound examination of pregnancy\n4. Blood test for pregnancy\n5. Fetal heart rate monitoring\n6. Maternal blood pressure measurement\n7. Assessment of fetal growth\n8. Counseling for prenatal care\n9. Administration of prenatal vitamins\n10. Glucose screening for gestational diabetes",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Normal pregnancy (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "d4e4d8de-adb7-8a5e-46f0-fdb0a3f4ecfb",
+    "patient_id": "f3884e8a-8b36-1e93-66dd-e910dfab2ef5",
+    "conditions": [
+      "Infection of tooth (disorder)"
+    ],
+    "actual_procedures": [
+      "Dental consultation and report (procedure)",
+      "Dental care (regime/therapy)",
+      "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Dental surgical procedure (procedure)",
+      "Dental application of desensitizing medicament (procedure)",
+      "Simple extraction of tooth (procedure)",
+      "Postoperative care for dental procedure (regime/therapy)",
+      "Examination of gingivae (procedure)",
+      "Dental fluoride treatment (procedure)",
+      "Oral health education (procedure)"
+    ],
+    "predicted_procedures": "1. Tooth extraction\n2. Root canal treatment\n3. Dental filling\n4. Tooth cleaning\n5. Antibiotic therapy\n6. Periodontal scaling\n7. Pulpotomy\n8. Apicoectomy\n9. Dental crown placement\n10. Oral examination",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Infection of tooth (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "6547fb8a-20dc-1fdd-7990-42b260551b2d",
+    "patient_id": "c1acd7ba-dacf-36d2-6010-db8934400000",
+    "conditions": [
+      "Stress (finding)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Screening for domestic abuse (procedure)",
+      "Assessment of substance use (procedure)",
+      "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)"
+    ],
+    "predicted_procedures": "1. Counseling for stress management\n2. Cognitive behavioral therapy\n3. Relaxation training\n4. Mindfulness-based stress reduction\n5. Psychotherapy\n6. Stress assessment\n7. Lifestyle modification counseling\n8. Support group therapy\n9. Medication management for anxiety/stress\n10. Biofeedback therapy",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Stress (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "d85134c4-e3a1-c4df-c43b-dee7e85829c1",
+    "patient_id": "d6cc7569-5f31-9648-ec6a-e1162b32b183",
+    "conditions": [
+      "Acute bronchitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Measurement of respiratory function (procedure)"
+    ],
+    "predicted_procedures": "1. Bronchodilator administration\n2. Inhalation therapy\n3. Chest physiotherapy\n4. Sputum culture\n5. Pulmonary function test\n6. Antibiotic therapy\n7. Corticosteroid administration\n8. Patient education on smoking cessation\n9. Oxygen therapy\n10. Chest X-ray",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Acute bronchitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "04dd30ab-6aad-00ea-772b-48c112a93988",
+    "patient_id": "bad5a231-3709-952a-cf44-f8d6a52cc214",
+    "conditions": [
+      "Medication review due (situation)"
+    ],
+    "actual_procedures": [
+      "Sleep apnea assessment (procedure)",
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Assessment of substance use (procedure)",
+      "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Medication reconciliation\n3. Medication management\n4. Comprehensive medication assessment\n5. Pharmacotherapy consultation\n6. Medication therapy management\n7. Review of medication adherence\n8. Assessment of medication side effects\n9. Evaluation of drug interactions\n10. Patient education on medications",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "6c869a2e-a073-52f4-9ffd-2e4770f01e97",
+    "patient_id": "bad5a231-3709-952a-cf44-f8d6a52cc214",
+    "conditions": [
+      "Medication review due (situation)",
+      "Not in labor force (finding)",
+      "Limited social contact (finding)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening using Patient Health Questionnaire Nine Item score (procedure)",
+      "Assessment of substance use (procedure)",
+      "Screening for drug abuse (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Social support assessment\n3. Counseling for social isolation\n4. Health education\n5. Comprehensive geriatric assessment\n6. Mental health evaluation\n7. Referral to social services\n8. Home safety assessment\n9. Nutritional assessment\n10. Follow-up visit for care coordination",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n- Not in labor force (finding)\n- Limited social contact (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "14f81dc2-9849-a993-586c-a8658b4c7a4b",
+    "patient_id": "f3884e8a-8b36-1e93-66dd-e910dfab2ef5",
+    "conditions": [
+      "Medication review due (situation)",
+      "Part-time employment (finding)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Medication reconciliation\n3. Patient education regarding medications\n4. Assessment of medication adherence\n5. Counseling for medication management\n6. Evaluation of work-related health issues\n7. Occupational therapy assessment\n8. Health education for work-life balance\n9. Follow-up consultation for medication management\n10. Development of a medication management plan",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n- Part-time employment (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "8e0be3da-643e-e1f4-3086-4c9917f17874",
+    "patient_id": "bd2a8021-2868-6dd2-c17f-bfd7c36fe247",
+    "conditions": [
+      "Laceration - injury (disorder)",
+      "Facial laceration (disorder)"
+    ],
+    "actual_procedures": [
+      "Suture open wound (procedure)"
+    ],
+    "predicted_procedures": "1. Wound repair\n2. Laceration repair\n3. Facial laceration repair\n4. Suturing of laceration\n5. Debridement of laceration\n6. Closure of laceration\n7. Application of wound dressing\n8. Surgical cleaning of wound\n9. Local anesthesia for laceration repair\n10. Follow-up care for laceration repair",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Laceration - injury (disorder)\n- Facial laceration (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "6ea5e8ee-295a-2d88-f5f1-a1ad1522f015",
+    "patient_id": "f3884e8a-8b36-1e93-66dd-e910dfab2ef5",
+    "conditions": [
+      "Medication review due (situation)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Medication reconciliation\n3. Medication management\n4. Comprehensive medication assessment\n5. Pharmacotherapy consultation\n6. Medication therapy management\n7. Review of medication adherence\n8. Assessment of medication side effects\n9. Evaluation of drug interactions\n10. Patient education on medications",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "323d7354-1b9e-58d9-2a71-135c6ade3aa7",
+    "patient_id": "f3884e8a-8b36-1e93-66dd-e910dfab2ef5",
+    "conditions": [
+      "Dental filling lost (finding)"
+    ],
+    "actual_procedures": [
+      "Dental consultation and report (procedure)",
+      "Dental care (regime/therapy)",
+      "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Dental plain X-ray bitewing (procedure)",
+      "Examination of gingivae (procedure)",
+      "Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure)",
+      "Oral health education (procedure)"
+    ],
+    "predicted_procedures": "1. Dental restoration\n2. Dental filling placement\n3. Tooth preparation for filling\n4. Dental examination\n5. Oral hygiene instruction\n6. X-ray of teeth\n7. Tooth extraction (if necessary)\n8. Root canal treatment (if necessary)\n9. Crown placement (if necessary)\n10. Periodontal therapy (if necessary)",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Dental filling lost (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "913ff157-666e-3bc3-b8b2-b96a3a91a67c",
+    "patient_id": "f339a5f7-0b09-3072-2b01-7c8e8ca2c1fc",
+    "conditions": [
+      "Medication review due (situation)",
+      "Full-time employment (finding)",
+      "Limited social contact (finding)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Sleep apnea assessment (procedure)",
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Social support assessment\n3. Employment counseling\n4. Mental health evaluation\n5. Care coordination\n6. Patient education\n7. Referral to social services\n8. Psychosocial assessment\n9. Health coaching\n10. Community resource referral",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n- Full-time employment (finding)\n- Limited social contact (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "9b1aa3c2-c277-7699-93ef-c22aaec1ee12",
+    "patient_id": "60fc807a-de74-7722-b431-a63362670472",
+    "conditions": [
+      "Full-time employment (finding)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)"
+    ],
+    "predicted_procedures": "1. Occupational therapy\n2. Job coaching\n3. Vocational rehabilitation\n4. Worksite assessment\n5. Ergonomic assessment\n6. Skills training\n7. Job placement services\n8. Disability management\n9. Counseling for employment-related issues\n10. Assessment of work capacity",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Full-time employment (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "98578dee-8b3e-3ea3-ccf3-aacb678886f5",
+    "patient_id": "2d799deb-df07-0c4a-8692-42cce7595251",
+    "conditions": [
+      "Primary dental caries (disorder)"
+    ],
+    "actual_procedures": [
+      "Dental consultation and report (procedure)",
+      "Dental care (regime/therapy)",
+      "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Examination of gingivae (procedure)",
+      "Restoration of tooth with coverage of all cusps using dental filling material (procedure)",
+      "Dental fluoride treatment (procedure)",
+      "Oral health education (procedure)"
+    ],
+    "predicted_procedures": "1. Dental caries restoration\n2. Dental filling\n3. Tooth extraction\n4. Root canal treatment\n5. Dental sealant application\n6. Tooth cleaning (scaling and polishing)\n7. Fluoride treatment\n8. Pulp capping\n9. Crown placement\n10. Periodontal therapy",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Primary dental caries (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "927b40e5-295e-e9d3-e092-2ebe05e7808d",
+    "patient_id": "f3884e8a-8b36-1e93-66dd-e910dfab2ef5",
+    "conditions": [
+      "Medication review due (situation)",
+      "Full-time employment (finding)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Assessment of health and social care needs (procedure)",
+      "Screening for domestic abuse (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Medication reconciliation\n3. Medication management\n4. Patient education on medication\n5. Assessment of medication adherence\n6. Counseling for medication therapy\n7. Review of medication side effects\n8. Adjustment of medication regimen\n9. Follow-up appointment for medication review\n10. Documentation of medication history",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n- Full-time employment (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "918ae569-5558-4f42-c333-35a4e5834f03",
+    "patient_id": "898a6256-7ffb-dbe2-e24d-12fda2fedcfd",
+    "conditions": [
+      "Not in labor force (finding)",
+      "Gingivitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Assessment of substance use (procedure)",
+      "Screening for drug abuse (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Dental prophylaxis\n2. Scaling and root planing\n3. Oral hygiene instruction\n4. Periodontal maintenance\n5. Tooth extraction (if necessary)\n6. Dental examination\n7. Fluoride treatment\n8. Periodontal surgery (if indicated)\n9. Antimicrobial therapy for gingivitis\n10. Dental restoration (if applicable)",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Not in labor force (finding)\n- Gingivitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "ad445c0b-7aa2-8fae-f2c6-a014323ea284",
+    "patient_id": "d27273f0-f62d-7d7f-746d-4565f35cf176",
+    "conditions": [
+      "Acute bronchitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Measurement of respiratory function (procedure)"
+    ],
+    "predicted_procedures": "1. Bronchodilator administration\n2. Cough management\n3. Chest physiotherapy\n4. Nebulization therapy\n5. Antibiotic therapy (if bacterial infection is suspected)\n6. Spirometry\n7. Patient education on smoking cessation\n8. Inhaled corticosteroid therapy\n9. Oxygen therapy (if indicated)\n10. Follow-up evaluation for respiratory symptoms",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Acute bronchitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "30ab48ec-35a7-7704-86e5-113ef6a90c03",
+    "patient_id": "34a4dcc4-35fb-6ad5-ab98-be285c586a4f",
+    "conditions": [
+      "Stress (finding)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)"
+    ],
+    "predicted_procedures": "1. Counseling for stress management\n2. Cognitive behavioral therapy\n3. Relaxation training\n4. Mindfulness-based stress reduction\n5. Psychotherapy\n6. Stress assessment\n7. Lifestyle modification counseling\n8. Support group therapy\n9. Medication management for anxiety/stress\n10. Biofeedback therapy",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Stress (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "a12cf893-9a89-e66e-b0a4-7181bc05031a",
+    "patient_id": "780fe740-20fb-07ee-1fbd-3fafa9f5df91",
+    "conditions": [
+      "Medication review due (situation)",
+      "Gingivitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Oral hygiene instruction\n3. Dental prophylaxis\n4. Scaling and root planing\n5. Periodontal evaluation\n6. Fluoride treatment\n7. Dental examination\n8. Oral health education\n9. Antimicrobial therapy for gingivitis\n10. Referral to a dentist",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n- Gingivitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "34fac05d-868f-8bb6-6fe4-47a5e13ca3e0",
+    "patient_id": "488e5395-0a2a-f2da-0389-e0e8062b009d",
+    "conditions": [
+      "Gingival disease (disorder)"
+    ],
+    "actual_procedures": [
+      "Dental consultation and report (procedure)",
+      "Dental care (regime/therapy)",
+      "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Examination of gingivae (procedure)",
+      "Dental surgical procedure (procedure)",
+      "Dental application of desensitizing medicament (procedure)",
+      "Gingivectomy or gingivoplasty  per tooth (procedure)",
+      "Postoperative care for dental procedure (regime/therapy)",
+      "Dental fluoride treatment (procedure)",
+      "Oral health education (procedure)"
+    ],
+    "predicted_procedures": "1. Dental scaling\n2. Periodontal debridement\n3. Gingivectomy\n4. Periodontal surgery\n5. Oral hygiene instruction\n6. Root planing\n7. Periodontal maintenance\n8. Tooth extraction\n9. Localized delivery of antimicrobial agents\n10. Surgical flap procedure",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Gingival disease (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "bafefd00-d5d1-dc5d-e845-618ab8d03b58",
+    "patient_id": "c1ce8dfc-3c0d-de97-ce0e-5dc0460da340",
+    "conditions": [
+      "Medication review due (situation)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Medication reconciliation\n3. Medication management\n4. Comprehensive medication assessment\n5. Medication therapy management\n6. Review of medication adherence\n7. Assessment of medication side effects\n8. Patient education on medications\n9. Adjustment of medication regimen\n10. Consultation for medication-related issues",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "e7e504e7-1276-ef78-c421-e1b89f3cf85e",
+    "patient_id": "8935bc21-92f0-a4ad-d8b4-bcdd5b92204a",
+    "conditions": [
+      "Misuses drugs (finding)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Assessment of substance use (procedure)",
+      "Screening for drug abuse (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Substance abuse counseling\n2. Drug rehabilitation program\n3. Medication-assisted treatment\n4. Behavioral therapy\n5. Urine drug screening\n6. Individual therapy session\n7. Group therapy session\n8. Family therapy session\n9. Assessment for substance use disorder\n10. Referral to addiction specialist",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Misuses drugs (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "19b23571-bb98-ea1b-0340-7c55b7b5d5c6",
+    "patient_id": "0fef2411-21f0-a269-82fb-c42b55471405",
+    "conditions": [
+      "Primary dental caries (disorder)"
+    ],
+    "actual_procedures": [
+      "Dental consultation and report (procedure)",
+      "Dental care (regime/therapy)",
+      "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Examination of gingivae (procedure)",
+      "Restoration of tooth with coverage of all cusps using dental filling material (procedure)",
+      "Dental fluoride treatment (procedure)",
+      "Oral health education (procedure)"
+    ],
+    "predicted_procedures": "1. Dental caries restoration\n2. Dental filling\n3. Tooth extraction\n4. Root canal treatment\n5. Dental sealant application\n6. Tooth cleaning (prophylaxis)\n7. Fluoride treatment\n8. Dental crown placement\n9. Pulpotomy\n10. Periodontal scaling and root planing",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Primary dental caries (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "d2a995ca-70df-8200-3e7b-00fe059cab65",
+    "patient_id": "bd2a8021-2868-6dd2-c17f-bfd7c36fe247",
+    "conditions": [
+      "Full-time employment (finding)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Assessment using Morse Fall Scale (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Assessment of substance use (procedure)",
+      "Screening for drug abuse (procedure)"
+    ],
+    "predicted_procedures": "1. Occupational therapy\n2. Job coaching\n3. Vocational rehabilitation\n4. Worksite assessment\n5. Ergonomic assessment\n6. Skills training\n7. Job placement services\n8. Disability management\n9. Counseling for employment issues\n10. Work adjustment training",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Full-time employment (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "23ab490f-06d1-5271-d007-41feb504c376",
+    "patient_id": "7179458e-d6e3-c723-2530-d4acfe1c2668",
+    "conditions": [
+      "Medication review due (situation)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Medication reconciliation\n3. Medication management\n4. Comprehensive medication assessment\n5. Pharmacotherapy consultation\n6. Medication therapy management\n7. Review of medication adherence\n8. Assessment of medication side effects\n9. Patient education on medications\n10. Adjustment of medication regimen",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "30939caf-dd6e-3f97-0a75-b24194ab1e9a",
+    "patient_id": "d27273f0-f62d-7d7f-746d-4565f35cf176",
+    "conditions": [
+      "Infection of tooth (disorder)"
+    ],
+    "actual_procedures": [
+      "Dental consultation and report (procedure)",
+      "Dental care (regime/therapy)",
+      "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Dental plain X-ray bitewing (procedure)",
+      "Dental surgical procedure (procedure)",
+      "Dental application of desensitizing medicament (procedure)",
+      "Simple extraction of tooth (procedure)",
+      "Postoperative care for dental procedure (regime/therapy)",
+      "Examination of gingivae (procedure)",
+      "Oral health education (procedure)"
+    ],
+    "predicted_procedures": "1. Tooth extraction\n2. Root canal treatment\n3. Dental filling\n4. Tooth cleaning\n5. Antibiotic therapy\n6. Periodontal scaling\n7. Pulpotomy\n8. Apicoectomy\n9. Dental crown placement\n10. Oral examination",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Infection of tooth (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "d620cb30-ed1c-f675-9ead-48468ba516e6",
+    "patient_id": "5e0a6984-38d7-c604-f55f-f1de5e933768",
+    "conditions": [
+      "Normal pregnancy (finding)"
+    ],
+    "actual_procedures": [
+      "Standard pregnancy test (procedure)",
+      "Ultrasound scan for fetal viability (procedure)",
+      "Evaluation of uterine fundal height (procedure)",
+      "Auscultation of the fetal heart (procedure)",
+      "Blood group typing (procedure)",
+      "Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure)",
+      "Hepatitis B surface antigen measurement (procedure)",
+      "Human immunodeficiency virus antigen test (procedure)",
+      "Chlamydia antigen test (procedure)",
+      "Gonorrhea infection titer test (procedure)",
+      "Syphilis infectious titer test (procedure)",
+      "Urine culture (procedure)",
+      "Cytopathology procedure  preparation of smear  genital source (procedure)",
+      "Urine screening test for diabetes (procedure)",
+      "Hepatitis C antibody  confirmatory test (procedure)",
+      "Rubella screening test (procedure)",
+      "Measurement of Varicella-zoster virus antibody (procedure)",
+      "Skin test for tuberculosis  Tine test (procedure)",
+      "Urine protein test",
+      "Physical examination procedure (procedure)"
+    ],
+    "predicted_procedures": "1. Antenatal care\n2. Routine prenatal screening\n3. Ultrasound examination of pregnancy\n4. Blood test for pregnancy\n5. Fetal heart rate monitoring\n6. Maternal blood pressure measurement\n7. Assessment of fetal growth\n8. Counseling for prenatal care\n9. Administration of prenatal vitamins\n10. Glucose screening for gestational diabetes",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Normal pregnancy (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "1ebfb826-917b-4501-bb1d-4821e0e29633",
+    "patient_id": "f339a5f7-0b09-3072-2b01-7c8e8ca2c1fc",
+    "conditions": [
+      "Infection of tooth (disorder)"
+    ],
+    "actual_procedures": [
+      "Dental consultation and report (procedure)",
+      "Dental care (regime/therapy)",
+      "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Dental plain X-ray bitewing (procedure)",
+      "Dental surgical procedure (procedure)",
+      "Dental application of desensitizing medicament (procedure)",
+      "Simple extraction of tooth (procedure)",
+      "Postoperative care for dental procedure (regime/therapy)",
+      "Examination of gingivae (procedure)",
+      "Oral health education (procedure)"
+    ],
+    "predicted_procedures": "1. Tooth extraction\n2. Root canal treatment\n3. Dental filling\n4. Tooth cleaning\n5. Antibiotic therapy\n6. Periodontal scaling\n7. Pulpotomy\n8. Apicoectomy\n9. Dental crown placement\n10. Oral examination",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Infection of tooth (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "eba159f8-da29-0a2b-2334-0dc6c24f5e53",
+    "patient_id": "3d46defd-463f-a34b-4551-f9bbe96575bd",
+    "conditions": [
+      "Medication review due (situation)",
+      "Part-time employment (finding)",
+      "Stress (finding)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Screening for domestic abuse (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Counseling for stress management\n3. Occupational therapy assessment\n4. Psychological evaluation\n5. Stress management program\n6. Health education\n7. Lifestyle modification counseling\n8. Work-related stress assessment\n9. Referral to mental health services\n10. Follow-up appointment for medication management",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n- Part-time employment (finding)\n- Stress (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "0937c856-a8e5-eaeb-ef2e-cd7e4fec26bb",
+    "patient_id": "d27273f0-f62d-7d7f-746d-4565f35cf176",
+    "conditions": [
+      "Alveolitis of jaw (disorder)"
+    ],
+    "actual_procedures": [
+      "Dental consultation and report (procedure)",
+      "Dental surgical procedure (procedure)",
+      "Tooth socket procedure (procedure)",
+      "Postoperative care for dental procedure (regime/therapy)",
+      "Oral health education (procedure)"
+    ],
+    "predicted_procedures": "1. Tooth extraction\n2. Alveoloplasty\n3. Surgical drainage of abscess\n4. Bone grafting\n5. Periodontal surgery\n6. Root canal treatment\n7. Incision and drainage of alveolar abscess\n8. Oral examination\n9. Antibiotic therapy\n10. Pain management intervention",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Alveolitis of jaw (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "65bf0797-887b-974b-4d8a-bf69372a3c0b",
+    "patient_id": "8935bc21-92f0-a4ad-d8b4-bcdd5b92204a",
+    "conditions": [
+      "Not in labor force (finding)",
+      "Gingivitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening using Patient Health Questionnaire Nine Item score (procedure)",
+      "Assessment of substance use (procedure)",
+      "Screening for drug abuse (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Dental prophylaxis\n2. Scaling and root planing\n3. Oral hygiene instruction\n4. Periodontal maintenance\n5. Tooth extraction (if necessary)\n6. Dental examination\n7. Fluoride treatment\n8. Periodontal surgery (if indicated)\n9. Antimicrobial therapy for gingivitis\n10. Dental restoration (if applicable)",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Not in labor force (finding)\n- Gingivitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "35749cc9-8314-d8cf-2293-7d33ccf4b402",
+    "patient_id": "d27273f0-f62d-7d7f-746d-4565f35cf176",
+    "conditions": [
+      "Medication review due (situation)",
+      "Victim of intimate partner abuse (finding)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Assessment using Morse Fall Scale (procedure)",
+      "Screening for domestic abuse (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Assessment of substance use (procedure)",
+      "Screening for drug abuse (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Safety assessment\n3. Counseling for intimate partner violence\n4. Referral to social services\n5. Risk assessment for abuse\n6. Psychological evaluation\n7. Safety planning\n8. Health education on abuse\n9. Follow-up care for abuse victims\n10. Documentation of abuse history",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n- Victim of intimate partner abuse (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "e62c2baa-854b-4474-f162-3f78b06dcdcb",
+    "patient_id": "d1622e8b-d26b-ec81-ffcb-ec4bf2af385b",
+    "conditions": [
+      "Medication review due (situation)",
+      "End-stage renal disease (disorder)",
+      "Social isolation (finding)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Dialysis\n3. Kidney transplant\n4. Social support assessment\n5. Nutritional counseling\n6. Patient education on renal disease management\n7. Psychological evaluation\n8. Referral to social services\n9. Home health care assessment\n10. Palliative care consultation",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n- End-stage renal disease (disorder)\n- Social isolation (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "de68eb7f-3bb7-9c6a-da14-a71d279bd9b6",
+    "patient_id": "488e5395-0a2a-f2da-0389-e0e8062b009d",
+    "conditions": [
+      "Fracture of bone (disorder)",
+      "Fracture of ankle (disorder)"
+    ],
+    "actual_procedures": [
+      "Plain X-ray of ankle region (procedure)",
+      "Bone immobilization (procedure)",
+      "Bone density scan (procedure)"
+    ],
+    "predicted_procedures": "1. Open reduction of fracture of bone\n2. Closed reduction of fracture of bone\n3. Application of cast to limb\n4. Surgical fixation of fracture of ankle\n5. Ankle arthroscopy\n6. Ankle joint stabilization\n7. Bone grafting for fracture repair\n8. Removal of internal fixation device from ankle\n9. Rehabilitation therapy for ankle fracture\n10. X-ray of ankle joint",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Fracture of bone (disorder)\n- Fracture of ankle (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "e960d5fa-0dd7-0820-ca7c-dbbaf7ef39be",
+    "patient_id": "f3884e8a-8b36-1e93-66dd-e910dfab2ef5",
+    "conditions": [
+      "Medication review due (situation)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Screening for domestic abuse (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Medication reconciliation\n3. Medication management\n4. Comprehensive medication assessment\n5. Medication therapy management\n6. Review of medication adherence\n7. Assessment of medication side effects\n8. Patient education on medications\n9. Adjustment of medication regimen\n10. Consultation for medication-related issues",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "62a70351-17e9-1864-cb28-4081f0f2eca4",
+    "patient_id": "74ad71cb-f64d-efce-02c9-ae3bc917c4a2",
+    "conditions": [
+      "Part-time employment (finding)",
+      "Stress (finding)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Counseling\n2. Stress management therapy\n3. Cognitive behavioral therapy\n4. Occupational therapy\n5. Support group therapy\n6. Relaxation training\n7. Mindfulness training\n8. Psychotherapy\n9. Lifestyle modification counseling\n10. Job coaching",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Part-time employment (finding)\n- Stress (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "aac22b9c-981a-6fdd-044d-8179041c07c4",
+    "patient_id": "12696753-a126-88f4-da66-a87c70d2cad7",
+    "conditions": [
+      "Medication review due (situation)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Medication reconciliation\n3. Medication management\n4. Comprehensive medication assessment\n5. Pharmacotherapy consultation\n6. Medication therapy management\n7. Review of medication adherence\n8. Assessment of medication side effects\n9. Evaluation of drug interactions\n10. Patient education on medications",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "3f1e676e-50dc-46ca-9ab7-0c9834ba97b7",
+    "patient_id": "bd2a8021-2868-6dd2-c17f-bfd7c36fe247",
+    "conditions": [
+      "Medication review due (situation)",
+      "Full-time employment (finding)",
+      "Stress (finding)",
+      "Gingivitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Assessment using Morse Fall Scale (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Counseling for stress management\n3. Oral hygiene instruction\n4. Dental scaling and root planing\n5. Periodontal examination\n6. Fluoride treatment\n7. Dental prophylaxis\n8. Referral to a mental health professional\n9. Stress management therapy\n10. Nutritional counseling for oral health",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n- Full-time employment (finding)\n- Stress (finding)\n- Gingivitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "27be053b-0366-6140-56e7-1cfa9ff067a3",
+    "patient_id": "bd2a8021-2868-6dd2-c17f-bfd7c36fe247",
+    "conditions": [
+      "Medication review due (situation)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Assessment using Morse Fall Scale (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening using Patient Health Questionnaire Nine Item score (procedure)",
+      "Assessment of substance use (procedure)",
+      "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Medication reconciliation\n3. Comprehensive medication management\n4. Medication therapy management\n5. Patient education regarding medications\n6. Assessment of medication adherence\n7. Review of medication side effects\n8. Adjustment of medication regimen\n9. Consultation for medication-related issues\n10. Follow-up on medication therapy",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "5ef9fd97-68cc-50ff-b5ae-41393c86c28c",
+    "patient_id": "d5635f98-2461-70a1-5916-f854efa27fc0",
+    "conditions": [
+      "Part-time employment (finding)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Assessment of substance use (procedure)",
+      "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Assessment of work capacity\n2. Vocational rehabilitation\n3. Job placement services\n4. Occupational therapy\n5. Counseling for employment support\n6. Skills training\n7. Job coaching\n8. Worksite evaluation\n9. Employment readiness training\n10. Career counseling",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Part-time employment (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "900bb9fc-eae7-b3b2-1d99-c1d61c9d963f",
+    "patient_id": "4569671e-ed39-055f-8e78-422b96c9896b",
+    "conditions": [
+      "Medication review due (situation)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Medication reconciliation\n3. Medication management\n4. Comprehensive medication assessment\n5. Pharmacotherapy consultation\n6. Medication therapy management\n7. Review of medication adherence\n8. Assessment of medication side effects\n9. Evaluation of drug interactions\n10. Patient education on medications",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "1a9fb55e-0433-fc29-050e-61553db742a4",
+    "patient_id": "fb164202-4e38-04a0-470a-b7229db13c04",
+    "conditions": [
+      "Acute bronchitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Measurement of respiratory function (procedure)"
+    ],
+    "predicted_procedures": "1. Bronchodilator administration\n2. Nebulization therapy\n3. Chest physiotherapy\n4. Sputum culture\n5. Antibiotic therapy\n6. Corticosteroid administration\n7. Pulmonary function tests\n8. Patient education on smoking cessation\n9. Inhaler technique training\n10. Follow-up evaluation for respiratory symptoms",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Acute bronchitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "7deff5df-c38e-078c-1982-bafff54a9b4f",
+    "patient_id": "bad5a231-3709-952a-cf44-f8d6a52cc214",
+    "conditions": [
+      "Recurrent rectal polyp (disorder)"
+    ],
+    "actual_procedures": [
+      "Colonoscopy (procedure)",
+      "Rectal polypectomy (procedure)"
+    ],
+    "predicted_procedures": "1. Polypectomy\n2. Colonoscopy\n3. Endoscopic mucosal resection\n4. Surgical excision of rectal polyp\n5. Surveillance colonoscopy\n6. Biopsy of rectal polyp\n7. Anoscopy\n8. Rectal polyp ablation\n9. Laparoscopic resection of rectal polyp\n10. Transanal excision of rectal polyp",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Recurrent rectal polyp (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "2cbde877-052f-9076-792f-0d49c4a99d00",
+    "patient_id": "c055bc9e-ce1a-b116-287a-be9162e35a2f",
+    "conditions": [
+      "Normal pregnancy (finding)"
+    ],
+    "actual_procedures": [
+      "Standard pregnancy test (procedure)",
+      "Ultrasound scan for fetal viability (procedure)"
+    ],
+    "predicted_procedures": "1. Antenatal care\n2. Routine prenatal screening\n3. Ultrasound examination of pregnancy\n4. Blood pressure measurement\n5. Fetal heart rate monitoring\n6. Maternal blood tests\n7. Urinalysis during pregnancy\n8. Counseling for pregnancy\n9. Administration of prenatal vitamins\n10. Assessment of fetal growth",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Normal pregnancy (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "3e8c8db9-9427-6150-128f-73636a4f3ff8",
+    "patient_id": "dc323bce-e583-d903-303e-9c865bc87e67",
+    "conditions": [
+      "Acute bronchitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Measurement of respiratory function (procedure)"
+    ],
+    "predicted_procedures": "1. Bronchodilator administration\n2. Cough management\n3. Chest physiotherapy\n4. Nebulization therapy\n5. Antibiotic therapy (if bacterial infection is suspected)\n6. Spirometry\n7. Patient education on smoking cessation\n8. Inhaled corticosteroid therapy\n9. Oxygen therapy (if indicated)\n10. Follow-up evaluation for respiratory symptoms",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Acute bronchitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "4831d60a-14ac-ba83-8054-7204c1f919f9",
+    "patient_id": "37c177ea-4398-fb7a-29fa-70eb3d673876",
+    "conditions": [
+      "Normal pregnancy (finding)"
+    ],
+    "actual_procedures": [
+      "Standard pregnancy test (procedure)",
+      "Ultrasound scan for fetal viability (procedure)",
+      "Evaluation of uterine fundal height (procedure)",
+      "Auscultation of the fetal heart (procedure)",
+      "Blood group typing (procedure)",
+      "Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure)",
+      "Hepatitis B surface antigen measurement (procedure)",
+      "Human immunodeficiency virus antigen test (procedure)",
+      "Chlamydia antigen test (procedure)",
+      "Gonorrhea infection titer test (procedure)",
+      "Syphilis infectious titer test (procedure)",
+      "Urine culture (procedure)",
+      "Cytopathology procedure  preparation of smear  genital source (procedure)",
+      "Urine screening test for diabetes (procedure)",
+      "Hepatitis C antibody  confirmatory test (procedure)",
+      "Rubella screening test (procedure)",
+      "Measurement of Varicella-zoster virus antibody (procedure)",
+      "Skin test for tuberculosis  Tine test (procedure)",
+      "Urine protein test",
+      "Physical examination procedure (procedure)"
+    ],
+    "predicted_procedures": "1. Antenatal care\n2. Routine prenatal screening\n3. Ultrasound examination of pregnancy\n4. Blood pressure measurement\n5. Fetal heart rate monitoring\n6. Maternal blood tests\n7. Counseling for pregnancy\n8. Administration of prenatal vitamins\n9. Assessment of fetal growth\n10. Education on labor and delivery",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Normal pregnancy (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "00268c61-33f8-2c0d-37c6-bbd7c2eba607",
+    "patient_id": "d1622e8b-d26b-ec81-ffcb-ec4bf2af385b",
+    "conditions": [
+      "Medication review due (situation)",
+      "Full-time employment (finding)",
+      "Stress (finding)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of substance use (procedure)",
+      "Screening for drug abuse (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Counseling for stress management\n3. Occupational therapy assessment\n4. Psychological evaluation\n5. Stress management program\n6. Health education\n7. Lifestyle modification counseling\n8. Cognitive behavioral therapy\n9. Support group referral\n10. Follow-up appointment for medication management",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n- Full-time employment (finding)\n- Stress (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "be70a500-ec6c-306e-166c-f82b0a9540fd",
+    "patient_id": "8935bc21-92f0-a4ad-d8b4-bcdd5b92204a",
+    "conditions": [
+      "Alveolitis of jaw (disorder)"
+    ],
+    "actual_procedures": [
+      "Dental consultation and report (procedure)",
+      "Dental surgical procedure (procedure)",
+      "Tooth socket procedure (procedure)",
+      "Postoperative care for dental procedure (regime/therapy)",
+      "Oral health education (procedure)"
+    ],
+    "predicted_procedures": "1. Tooth extraction\n2. Alveoloplasty\n3. Surgical drainage of abscess\n4. Bone grafting\n5. Periodontal surgery\n6. Root canal treatment\n7. Incision and drainage of alveolar abscess\n8. Oral examination\n9. Antibiotic therapy\n10. Pain management intervention",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Alveolitis of jaw (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "2dd47443-f411-7b62-675c-b5039e63c714",
+    "patient_id": "5032b4e1-c68e-b135-30ac-ad7e386b619b",
+    "conditions": [
+      "Polyp of colon (disorder)"
+    ],
+    "actual_procedures": [
+      "Colonoscopy (procedure)",
+      "Screening for occult blood in feces (procedure)",
+      "Rectal polypectomy (procedure)"
+    ],
+    "predicted_procedures": "1. Colonoscopy\n2. Polypectomy\n3. Endoscopic mucosal resection\n4. Biopsy of colon\n5. Surgical resection of colon\n6. Colonoscopic polypectomy\n7. Flexible sigmoidoscopy\n8. Total colectomy\n9. Laparoscopic colon resection\n10. Anoscopy",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Polyp of colon (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "8b559c22-34c1-1508-465a-9b369b279f8e",
+    "patient_id": "488e5395-0a2a-f2da-0389-e0e8062b009d",
+    "conditions": [
+      "Full-time employment (finding)",
+      "Victim of intimate partner abuse (finding)",
+      "Unhealthy alcohol drinking behavior (finding)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Assessment of substance use (procedure)",
+      "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Counseling for alcohol use disorder\n2. Safety planning for intimate partner violence\n3. Substance abuse treatment program\n4. Psychological counseling\n5. Risk assessment for intimate partner violence\n6. Referral to social services\n7. Support group participation\n8. Health education on alcohol use\n9. Crisis intervention services\n10. Screening for mental health disorders",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Full-time employment (finding)\n- Victim of intimate partner abuse (finding)\n- Unhealthy alcohol drinking behavior (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "52e5ed65-85bb-d923-3ab3-5e9db5220297",
+    "patient_id": "5c779b5a-b6f0-2954-0c1c-9855c010d4d0",
+    "conditions": [
+      "Has a criminal record (finding)",
+      "Gingivitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Assessment using Morse Fall Scale (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Dental cleaning\n2. Periodontal scaling\n3. Oral hygiene instruction\n4. Dental examination\n5. Tooth extraction (if necessary)\n6. Periodontal surgery (if severe)\n7. Application of fluoride\n8. Dental prophylaxis\n9. Root planing\n10. Antibiotic therapy for periodontal disease",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Has a criminal record (finding)\n- Gingivitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "51508c73-7379-2f74-d08b-209330617431",
+    "patient_id": "8935bc21-92f0-a4ad-d8b4-bcdd5b92204a",
+    "conditions": [
+      "Primary dental caries (disorder)"
+    ],
+    "actual_procedures": [
+      "Dental consultation and report (procedure)",
+      "Dental care (regime/therapy)",
+      "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Dental plain X-ray bitewing (procedure)",
+      "Examination of gingivae (procedure)",
+      "Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure)",
+      "Oral health education (procedure)"
+    ],
+    "predicted_procedures": "1. Dental caries restoration\n2. Dental filling\n3. Tooth extraction\n4. Root canal treatment\n5. Dental sealant application\n6. Tooth cleaning (scaling and polishing)\n7. Fluoride treatment\n8. Pulp capping\n9. Crown placement\n10. Periodontal therapy",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Primary dental caries (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "65cf70f3-fa9a-8f0b-93f8-76e5afbed98a",
+    "patient_id": "f3884e8a-8b36-1e93-66dd-e910dfab2ef5",
+    "conditions": [
+      "Medication review due (situation)",
+      "Full-time employment (finding)",
+      "Gingivitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Oral hygiene instruction\n3. Dental prophylaxis\n4. Scaling and root planing\n5. Periodontal evaluation\n6. Fluoride treatment\n7. Oral examination\n8. Patient education on gingivitis management\n9. Referral to a dentist\n10. Dental cleaning",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n- Full-time employment (finding)\n- Gingivitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "9bf9a74e-db4b-c303-67c7-602aea4208d1",
+    "patient_id": "bad5a231-3709-952a-cf44-f8d6a52cc214",
+    "conditions": [
+      "Infection of tooth (disorder)",
+      "Primary dental caries (disorder)"
+    ],
+    "actual_procedures": [
+      "Dental consultation and report (procedure)",
+      "Dental care (regime/therapy)",
+      "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Dental surgical procedure (procedure)",
+      "Dental application of desensitizing medicament (procedure)",
+      "Simple extraction of tooth (procedure)",
+      "Postoperative care for dental procedure (regime/therapy)",
+      "Examination of gingivae (procedure)",
+      "Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure)",
+      "Dental fluoride treatment (procedure)",
+      "Oral health education (procedure)"
+    ],
+    "predicted_procedures": "1. Tooth extraction\n2. Dental filling\n3. Root canal treatment\n4. Tooth cleaning\n5. Dental crown placement\n6. Periodontal scaling\n7. Pulpotomy\n8. Antibiotic therapy for dental infection\n9. Dental sealant application\n10. Oral examination",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Infection of tooth (disorder)\n- Primary dental caries (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "774cc61c-1d2d-1658-b737-abd866e05b6a",
+    "patient_id": "00732e11-5e4d-37b7-01f8-929a25536862",
+    "conditions": [
+      "Medication review due (situation)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Assessment of health and social care needs (procedure)",
+      "Screening for domestic abuse (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Medication reconciliation\n3. Medication management\n4. Comprehensive medication assessment\n5. Medication therapy management\n6. Review of medication adherence\n7. Assessment of medication side effects\n8. Patient education on medications\n9. Adjustment of medication regimen\n10. Consultation for medication-related issues",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "360731bb-b749-bdc2-69c7-2b9b95333d30",
+    "patient_id": "778f10bc-09e5-8e86-64e8-bffa36d47246",
+    "conditions": [
+      "Pre-eclampsia (disorder)"
+    ],
+    "actual_procedures": [
+      "Evaluation of uterine fundal height (procedure)",
+      "Auscultation of the fetal heart (procedure)"
+    ],
+    "predicted_procedures": "1. Delivery of fetus\n2. Cesarean section\n3. Induction of labor\n4. Monitoring of fetal heart rate\n5. Administration of magnesium sulfate\n6. Blood pressure monitoring\n7. Urine protein measurement\n8. Administration of antihypertensive medication\n9. Amniocentesis\n10. Postpartum care",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Pre-eclampsia (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "cff1eb2f-d457-c0fe-f984-455a40448bb7",
+    "patient_id": "d27273f0-f62d-7d7f-746d-4565f35cf176",
+    "conditions": [
+      "Full-time employment (finding)",
+      "Social isolation (finding)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)"
+    ],
+    "predicted_procedures": "1. Counseling\n2. Social skills training\n3. Supportive psychotherapy\n4. Occupational therapy\n5. Group therapy\n6. Community resource referral\n7. Vocational rehabilitation\n8. Family therapy\n9. Case management\n10. Mental health assessment",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Full-time employment (finding)\n- Social isolation (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "27c1cd6a-c96e-83db-4376-9fde6e8a934d",
+    "patient_id": "f3884e8a-8b36-1e93-66dd-e910dfab2ef5",
+    "conditions": [
+      "Medication review due (situation)",
+      "Full-time employment (finding)",
+      "Stress (finding)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Counseling for stress management\n3. Occupational therapy assessment\n4. Psychological evaluation\n5. Stress management program\n6. Health education\n7. Lifestyle modification counseling\n8. Cognitive behavioral therapy\n9. Support group referral\n10. Follow-up appointment for medication management",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n- Full-time employment (finding)\n- Stress (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "991f6e7a-1a74-ecd6-e4fe-33ba4b6c7775",
+    "patient_id": "655baba7-47ed-22ac-2093-1196ebb44928",
+    "conditions": [
+      "Medication review due (situation)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Assessment using Morse Fall Scale (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Medication reconciliation\n3. Medication management\n4. Comprehensive medication assessment\n5. Medication therapy management\n6. Review of medication adherence\n7. Assessment of medication side effects\n8. Patient education on medications\n9. Adjustment of medication regimen\n10. Consultation for medication-related issues",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "314e7082-48d7-2184-26d7-27170e1a9770",
+    "patient_id": "3648fb36-1cd1-3641-0b1c-1f00d1e7e7de",
+    "conditions": [
+      "Cough (finding)",
+      "Sputum finding (finding)",
+      "Fatigue (finding)",
+      "Muscle pain (finding)",
+      "Joint pain (finding)",
+      "Fever (finding)",
+      "Loss of taste (finding)",
+      "Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder)"
+    ],
+    "actual_procedures": [
+      "Face mask (physical object)"
+    ],
+    "predicted_procedures": "1. Respiratory specimen collection\n2. Sputum culture\n3. Chest X-ray\n4. Complete blood count (CBC)\n5. COVID-19 testing (PCR)\n6. Symptom management (supportive care)\n7. Joint aspiration\n8. Muscle strength testing\n9. Fever management (antipyretics)\n10. Taste and smell assessment",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Cough (finding)\n- Sputum finding (finding)\n- Fatigue (finding)\n- Muscle pain (finding)\n- Joint pain (finding)\n- Fever (finding)\n- Loss of taste (finding)\n- Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "bb7deea7-1539-365d-df78-223852cc9000",
+    "patient_id": "00732e11-5e4d-37b7-01f8-929a25536862",
+    "conditions": [
+      "Full-time employment (finding)",
+      "Limited social contact (finding)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Screening for domestic abuse (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Assessment of substance use (procedure)",
+      "Screening for drug abuse (procedure)"
+    ],
+    "predicted_procedures": "1. Counseling\n2. Social skills training\n3. Occupational therapy\n4. Supportive psychotherapy\n5. Group therapy\n6. Individual therapy\n7. Vocational rehabilitation\n8. Community support services\n9. Mental health assessment\n10. Family therapy",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Full-time employment (finding)\n- Limited social contact (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "0ba79eb3-8113-921d-fc0c-3cf1c8dc89f3",
+    "patient_id": "d426334c-a982-3a31-7e0f-ca3c7fe01310",
+    "conditions": [
+      "Laceration - injury (disorder)",
+      "Laceration of hand (disorder)"
+    ],
+    "actual_procedures": [
+      "Suture open wound (procedure)",
+      "Injection of tetanus antitoxin (procedure)"
+    ],
+    "predicted_procedures": "1. Wound repair\n2. Laceration repair\n3. Surgical debridement\n4. Suture of laceration\n5. Application of dressing to wound\n6. Local anesthesia for wound repair\n7. Exploration of laceration\n8. Closure of laceration\n9. Removal of foreign body from wound\n10. Follow-up care for wound healing",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Laceration - injury (disorder)\n- Laceration of hand (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "775c0dd4-aa31-6d2b-8156-581e2308aa9c",
+    "patient_id": "fb164202-4e38-04a0-470a-b7229db13c04",
+    "conditions": [
+      "Prediabetes (finding)",
+      "Anemia (disorder)",
+      "Part-time employment (finding)",
+      "Stress (finding)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Assessment of substance use (procedure)",
+      "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)"
+    ],
+    "predicted_procedures": "1. Blood glucose monitoring\n2. Hemoglobin A1c measurement\n3. Complete blood count (CBC)\n4. Nutritional counseling\n5. Stress management therapy\n6. Iron supplementation\n7. Diabetes education\n8. Lifestyle modification counseling\n9. Blood test for iron studies\n10. Referral to a dietitian",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Prediabetes (finding)\n- Anemia (disorder)\n- Part-time employment (finding)\n- Stress (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "9e8aeda7-d399-f23a-0af8-f5bf4de5fe5a",
+    "patient_id": "f3884e8a-8b36-1e93-66dd-e910dfab2ef5",
+    "conditions": [
+      "Medication review due (situation)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Medication reconciliation\n3. Medication management\n4. Comprehensive medication assessment\n5. Pharmacotherapy consultation\n6. Medication therapy management\n7. Review of medication adherence\n8. Assessment of medication side effects\n9. Evaluation of drug interactions\n10. Patient education on medications",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "a24a56b5-7711-90d8-4cf7-5fa077a436a3",
+    "patient_id": "ba459391-501f-22f5-3446-7defd52e5fab",
+    "conditions": [
+      "Medication review due (situation)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Medication reconciliation\n3. Medication management\n4. Comprehensive medication assessment\n5. Medication therapy management\n6. Review of medication adherence\n7. Assessment of medication side effects\n8. Patient education on medications\n9. Adjustment of medication regimen\n10. Consultation for medication-related issues",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "c3bee277-6cb0-42c6-8d82-34f099ef6aad",
+    "patient_id": "03bde354-de87-a404-4ab3-00edf0b184a7",
+    "conditions": [
+      "Medication review due (situation)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening using Patient Health Questionnaire Nine Item score (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Medication reconciliation\n3. Medication management\n4. Comprehensive medication assessment\n5. Pharmacotherapy consultation\n6. Medication therapy management\n7. Review of medication adherence\n8. Assessment of medication side effects\n9. Evaluation of drug interactions\n10. Patient education on medications",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "e6e2bdb7-4f2f-f5f4-a834-5e9b603a62ed",
+    "patient_id": "b05fba34-1719-c0de-ac25-16e65de3d26a",
+    "conditions": [
+      "Acute viral pharyngitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Throat culture (procedure)"
+    ],
+    "predicted_procedures": "1. Throat swab for viral culture\n2. Administration of antiviral medication\n3. Symptomatic treatment for pharyngitis\n4. Patient education on hydration and rest\n5. Prescription of analgesics for pain relief\n6. Follow-up evaluation for persistent symptoms\n7. Administration of corticosteroids (if indicated)\n8. Nasopharyngeal swab for respiratory virus testing\n9. Assessment of throat for signs of bacterial infection\n10. Referral to an otolaryngologist (if necessary)",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Acute viral pharyngitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "7a35deaa-8220-9f00-55b3-b57a7801ee67",
+    "patient_id": "cb1b46a1-9cb5-1187-ccc5-9fb7b98aa957",
+    "conditions": [
+      "Medication review due (situation)",
+      "Not in labor force (finding)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Screening for domestic abuse (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Assessment of substance use (procedure)",
+      "Screening for drug abuse (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Patient education\n3. Health assessment\n4. Counseling for medication management\n5. Comprehensive medication management\n6. Review of medication adherence\n7. Assessment of health-related quality of life\n8. Evaluation of social determinants of health\n9. Referral to a pharmacist for medication therapy management\n10. Follow-up consultation for medication review",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n- Not in labor force (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "2d4c6358-8586-02d3-1927-359cfe97d7b7",
+    "patient_id": "9e9b5929-6880-fd20-f386-026109e24028",
+    "conditions": [
+      "Medication review due (situation)",
+      "Gingivitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Assessment of substance use (procedure)",
+      "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Oral hygiene instruction\n3. Dental prophylaxis\n4. Scaling and root planing\n5. Periodontal evaluation\n6. Fluoride treatment\n7. Dental examination\n8. Oral health education\n9. Antimicrobial therapy for gingivitis\n10. Referral to a periodontist",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n- Gingivitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "f3133a65-807d-fb6d-b315-656b38cb2056",
+    "patient_id": "bad5a231-3709-952a-cf44-f8d6a52cc214",
+    "conditions": [
+      "Part-time employment (finding)"
+    ],
+    "actual_procedures": [
+      "Sleep apnea assessment (procedure)",
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Assessment using Morse Fall Scale (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Assessment of substance use (procedure)",
+      "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)"
+    ],
+    "predicted_procedures": "1. Assessment of work capacity\n2. Vocational rehabilitation\n3. Job placement services\n4. Occupational therapy\n5. Counseling for employment support\n6. Skills training\n7. Work environment assessment\n8. Job coaching\n9. Career counseling\n10. Employment readiness training",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Part-time employment (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "95336302-286c-09b7-0fd4-0d6bf27ea0ab",
+    "patient_id": "c055bc9e-ce1a-b116-287a-be9162e35a2f",
+    "conditions": [
+      "Normal pregnancy (finding)"
+    ],
+    "actual_procedures": [
+      "Standard pregnancy test (procedure)",
+      "Ultrasound scan for fetal viability (procedure)",
+      "Evaluation of uterine fundal height (procedure)",
+      "Auscultation of the fetal heart (procedure)",
+      "Blood group typing (procedure)",
+      "Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential (procedure)",
+      "Hepatitis B surface antigen measurement (procedure)",
+      "Human immunodeficiency virus antigen test (procedure)",
+      "Chlamydia antigen test (procedure)",
+      "Gonorrhea infection titer test (procedure)",
+      "Syphilis infectious titer test (procedure)",
+      "Urine culture (procedure)",
+      "Cytopathology procedure  preparation of smear  genital source (procedure)",
+      "Urine screening test for diabetes (procedure)",
+      "Hepatitis C antibody  confirmatory test (procedure)",
+      "Rubella screening test (procedure)",
+      "Measurement of Varicella-zoster virus antibody (procedure)",
+      "Skin test for tuberculosis  Tine test (procedure)",
+      "Urine protein test",
+      "Physical examination procedure (procedure)"
+    ],
+    "predicted_procedures": "1. Antenatal care\n2. Routine prenatal screening\n3. Fetal monitoring\n4. Ultrasound examination of pregnancy\n5. Blood tests for pregnancy\n6. Counseling for pregnancy\n7. Administration of prenatal vitamins\n8. Assessment of fetal growth\n9. Assessment of maternal health\n10. Education on childbirth and parenting",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Normal pregnancy (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "f9850eb1-ba3c-62da-d616-9aec68099b50",
+    "patient_id": "d27273f0-f62d-7d7f-746d-4565f35cf176",
+    "conditions": [
+      "Medication review due (situation)",
+      "Reports of violence in the environment (finding)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Assessment using Morse Fall Scale (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Assessment of substance use (procedure)",
+      "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Risk assessment for violence\n3. Safety planning\n4. Counseling for violence prevention\n5. Referral to mental health services\n6. Crisis intervention\n7. Patient education on safety measures\n8. Environmental assessment for safety\n9. Follow-up evaluation\n10. Documentation of violence risk factors",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n- Reports of violence in the environment (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "912b8fd0-8cea-f2aa-c8ec-ade5f7031acb",
+    "patient_id": "5e0a6984-38d7-c604-f55f-f1de5e933768",
+    "conditions": [
+      "Acute viral pharyngitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Throat culture (procedure)"
+    ],
+    "predicted_procedures": "1. Throat swab for viral culture\n2. Administration of antiviral medication\n3. Symptomatic treatment for pharyngitis\n4. Patient education on hydration and rest\n5. Prescription of analgesics for pain relief\n6. Follow-up consultation for symptom management\n7. Administration of corticosteroids (if indicated)\n8. Nasopharyngeal swab for respiratory virus testing\n9. Assessment of throat for signs of bacterial infection\n10. Referral to an otolaryngologist (if necessary)",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Acute viral pharyngitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "ac843187-7a9a-8dc3-49a6-1499e36816dc",
+    "patient_id": "12696753-a126-88f4-da66-a87c70d2cad7",
+    "conditions": [
+      "Loss of teeth (disorder)"
+    ],
+    "actual_procedures": [
+      "Dental consultation and report (procedure)",
+      "Dental plain X-ray bitewing (procedure)",
+      "Take oral or dental impression (procedure)"
+    ],
+    "predicted_procedures": "1. Tooth extraction\n2. Dental implant placement\n3. Complete denture fitting\n4. Partial denture fitting\n5. Tooth restoration\n6. Root canal treatment\n7. Periodontal therapy\n8. Dental prophylaxis\n9. Orthodontic treatment\n10. Oral examination",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Loss of teeth (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "899b5981-75bf-9183-c673-b8d7a6ef170c",
+    "patient_id": "d6cc7569-5f31-9648-ec6a-e1162b32b183",
+    "conditions": [
+      "Gingivitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Assessment of anxiety (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening using Patient Health Questionnaire Nine Item score (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Dental prophylaxis\n2. Scaling and root planing\n3. Periodontal maintenance\n4. Oral hygiene instruction\n5. Gingivectomy\n6. Periodontal surgery\n7. Localized delivery of antimicrobial agents\n8. Tooth brushing instruction\n9. Fluoride treatment\n10. Dental examination",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Gingivitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "36c593ab-44db-ded4-4022-d76a74eefb02",
+    "patient_id": "b0f6cc39-6dfd-4ac2-84c7-e7478723d563",
+    "conditions": [
+      "Medication review due (situation)",
+      "Stress (finding)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Screening for domestic abuse (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Assessment of substance use (procedure)",
+      "Screening for drug abuse (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Counseling for stress management\n3. Psychological assessment\n4. Cognitive behavioral therapy\n5. Stress management education\n6. Lifestyle modification counseling\n7. Follow-up appointment for medication management\n8. Referral to mental health specialist\n9. Patient education on stress reduction techniques\n10. Assessment of medication adherence",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n- Stress (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "1b4aedac-4785-64e1-c867-6b305c00c53e",
+    "patient_id": "37713015-cfb5-bf1a-70eb-970101f32341",
+    "conditions": [
+      "Medication review due (situation)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Medication reconciliation\n3. Medication management\n4. Comprehensive medication assessment\n5. Pharmacotherapy consultation\n6. Medication therapy management\n7. Review of medication adherence\n8. Assessment of medication side effects\n9. Evaluation of drug interactions\n10. Patient education on medications",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "ca964203-b993-08e8-be0d-065e02492963",
+    "patient_id": "14dc5e57-1b84-3305-c042-86c9fc7e4996",
+    "conditions": [
+      "Primary dental caries (disorder)"
+    ],
+    "actual_procedures": [
+      "Dental consultation and report (procedure)",
+      "Dental care (regime/therapy)",
+      "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Dental plain X-ray bitewing (procedure)",
+      "Examination of gingivae (procedure)",
+      "Restoration of tooth with coverage of all cusps using dental filling material (procedure)",
+      "Oral health education (procedure)"
+    ],
+    "predicted_procedures": "1. Dental caries restoration\n2. Dental filling\n3. Tooth extraction\n4. Root canal treatment\n5. Dental sealant application\n6. Tooth cleaning (prophylaxis)\n7. Fluoride treatment\n8. Crown placement\n9. Periodontal scaling and root planing\n10. Pulpotomy",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Primary dental caries (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "bed9ae0f-e8df-724b-93eb-9d24080976a2",
+    "patient_id": "d1622e8b-d26b-ec81-ffcb-ec4bf2af385b",
+    "conditions": [
+      "Not in labor force (finding)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Assessment of substance use (procedure)",
+      "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)"
+    ],
+    "predicted_procedures": "1. Assessment of work capacity\n2. Occupational therapy\n3. Vocational rehabilitation\n4. Counseling for employment\n5. Job training program\n6. Psychological evaluation\n7. Functional capacity evaluation\n8. Worksite evaluation\n9. Supportive employment services\n10. Career counseling",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Not in labor force (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "8a84efee-6fd7-f5b3-8816-9a1c60e720be",
+    "patient_id": "34a4dcc4-35fb-6ad5-ab98-be285c586a4f",
+    "conditions": [
+      "Gingival disease (disorder)"
+    ],
+    "actual_procedures": [
+      "Dental consultation and report (procedure)",
+      "Dental care (regime/therapy)",
+      "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Examination of gingivae (procedure)",
+      "Dental surgical procedure (procedure)",
+      "Dental application of desensitizing medicament (procedure)",
+      "Gingivectomy or gingivoplasty  per tooth (procedure)",
+      "Postoperative care for dental procedure (regime/therapy)",
+      "Dental fluoride treatment (procedure)",
+      "Oral health education (procedure)"
+    ],
+    "predicted_procedures": "1. Dental scaling\n2. Periodontal debridement\n3. Gingivectomy\n4. Periodontal surgery\n5. Oral hygiene instruction\n6. Root planing\n7. Periodontal maintenance\n8. Tooth extraction\n9. Localized delivery of antimicrobial agents\n10. Flap surgery",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Gingival disease (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "b49b4427-d28c-1eba-6f40-ace8a79c67fa",
+    "patient_id": "24a8f8bc-f502-5f0e-0dd7-27d64a15ed9e",
+    "conditions": [
+      "Medication review due (situation)"
+    ],
+    "actual_procedures": [
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Medication reconciliation\n3. Medication management\n4. Comprehensive medication assessment\n5. Pharmacotherapy consultation\n6. Medication therapy management\n7. Review of medication adherence\n8. Assessment of medication side effects\n9. Evaluation of drug interactions\n10. Patient education on medications",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "c5ea3f67-f4f4-e635-ba65-adf38af7112e",
+    "patient_id": "778f10bc-09e5-8e86-64e8-bffa36d47246",
+    "conditions": [
+      "Infection of tooth (disorder)"
+    ],
+    "actual_procedures": [
+      "Dental consultation and report (procedure)",
+      "Dental care (regime/therapy)",
+      "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Dental plain X-ray bitewing (procedure)",
+      "Dental surgical procedure (procedure)",
+      "Dental application of desensitizing medicament (procedure)",
+      "Simple extraction of tooth (procedure)",
+      "Postoperative care for dental procedure (regime/therapy)",
+      "Examination of gingivae (procedure)",
+      "Oral health education (procedure)"
+    ],
+    "predicted_procedures": "1. Tooth extraction\n2. Root canal treatment\n3. Dental filling\n4. Tooth cleaning\n5. Antibiotic therapy\n6. Periodontal scaling\n7. Pulpotomy\n8. Apicoectomy\n9. Dental crown placement\n10. Oral examination",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Infection of tooth (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "bb7c38d9-fe65-cd6b-db18-3a041933efc8",
+    "patient_id": "9933f4bd-106c-b41d-467a-94ec42baeb81",
+    "conditions": [
+      "Limited social contact (finding)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Social skills training\n2. Individual counseling\n3. Group therapy\n4. Family therapy\n5. Community support services\n6. Psychoeducation\n7. Cognitive behavioral therapy\n8. Support group participation\n9. Case management\n10. Referral to social services",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Limited social contact (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "55788f80-5b32-2564-0777-23b02dac3770",
+    "patient_id": "60fc807a-de74-7722-b431-a63362670472",
+    "conditions": [
+      "Not in labor force (finding)",
+      "Stress (finding)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Assessment of health and social care needs (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Counseling\n2. Cognitive behavioral therapy\n3. Stress management training\n4. Psychotherapy\n5. Relaxation therapy\n6. Mindfulness training\n7. Support group therapy\n8. Medication management\n9. Lifestyle modification counseling\n10. Health education",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Not in labor force (finding)\n- Stress (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "43cdc600-9b8d-c5ac-3135-8ca02df8e4ed",
+    "patient_id": "c3deeb5b-66ef-b1bf-0202-0e5ce485d30f",
+    "conditions": [
+      "Medication review due (situation)",
+      "Gingivitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Assessment of substance use (procedure)",
+      "Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure)",
+      "Anticipatory guidance (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Oral hygiene instruction\n3. Dental prophylaxis\n4. Scaling and root planing\n5. Periodontal evaluation\n6. Fluoride treatment\n7. Dental examination\n8. Oral health education\n9. Antimicrobial therapy for gingivitis\n10. Referral to a periodontist",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n- Gingivitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "b4e1a009-81ad-ee6c-eb9d-6690c99e49da",
+    "patient_id": "d6cc7569-5f31-9648-ec6a-e1162b32b183",
+    "conditions": [
+      "Gingival disease (disorder)",
+      "Primary dental caries (disorder)"
+    ],
+    "actual_procedures": [
+      "Dental consultation and report (procedure)",
+      "Dental care (regime/therapy)",
+      "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Examination of gingivae (procedure)",
+      "Dental surgical procedure (procedure)",
+      "Dental application of desensitizing medicament (procedure)",
+      "Gingivectomy or gingivoplasty  per tooth (procedure)",
+      "Postoperative care for dental procedure (regime/therapy)",
+      "Application of composite dental filling material to dentin of tooth following fracture of tooth (procedure)",
+      "Dental fluoride treatment (procedure)",
+      "Oral health education (procedure)"
+    ],
+    "predicted_procedures": "1. Dental scaling\n2. Periodontal therapy\n3. Dental caries restoration\n4. Tooth extraction\n5. Oral hygiene instruction\n6. Fluoride treatment\n7. Root planing\n8. Dental sealant application\n9. Periodontal surgery\n10. Tooth filling",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Gingival disease (disorder)\n- Primary dental caries (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "0e856348-7658-4a17-a08d-83fa69c0fa12",
+    "patient_id": "780fe740-20fb-07ee-1fbd-3fafa9f5df91",
+    "conditions": [
+      "Risk activity involvement (finding)",
+      "Gingivitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Assessment of substance use (procedure)",
+      "Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure)",
+      "Health risks education (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Oral hygiene instruction\n2. Dental prophylaxis\n3. Scaling and root planing\n4. Periodontal maintenance\n5. Fluoride treatment\n6. Dental examination\n7. Oral health education\n8. Antimicrobial therapy for gingivitis\n9. Tooth brushing instruction\n10. Dietary counseling for oral health",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Risk activity involvement (finding)\n- Gingivitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "c26538f2-95b1-3297-f5cb-53aa704e95a4",
+    "patient_id": "14dc5e57-1b84-3305-c042-86c9fc7e4996",
+    "conditions": [
+      "Not in labor force (finding)",
+      "Stress (finding)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Screening for domestic abuse (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Counseling\n2. Cognitive behavioral therapy\n3. Stress management training\n4. Psychotherapy\n5. Relaxation therapy\n6. Supportive therapy\n7. Medication management\n8. Lifestyle modification counseling\n9. Mindfulness training\n10. Group therapy",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Not in labor force (finding)\n- Stress (finding)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "25403abf-330b-6fcd-f36a-7500fd30b00e",
+    "patient_id": "dc323bce-e583-d903-303e-9c865bc87e67",
+    "conditions": [
+      "Acute viral pharyngitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Throat culture (procedure)"
+    ],
+    "predicted_procedures": "1. Throat swab for viral culture\n2. Administration of antiviral medication\n3. Symptomatic treatment for pharyngitis\n4. Patient education on hydration and rest\n5. Prescription of analgesics for pain relief\n6. Follow-up consultation for symptom management\n7. Administration of corticosteroids (if indicated)\n8. Nasopharyngeal suctioning (if necessary)\n9. Assessment of airway patency\n10. Referral to an otolaryngologist (if complications arise)",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Acute viral pharyngitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "626835e2-e528-c7f5-85a3-f32c26201cec",
+    "patient_id": "655baba7-47ed-22ac-2093-1196ebb44928",
+    "conditions": [
+      "Gingivitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Assessment using Morse Fall Scale (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Assessment of substance use (procedure)",
+      "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Dental prophylaxis\n2. Scaling and root planing\n3. Periodontal maintenance\n4. Oral hygiene instruction\n5. Periodontal examination\n6. Tooth brushing instruction\n7. Application of fluoride varnish\n8. Dental cleaning\n9. Periodontal surgery\n10. Antimicrobial therapy",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Gingivitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "fd6b8b65-0f04-5432-6298-69227d68ac68",
+    "patient_id": "bad5a231-3709-952a-cf44-f8d6a52cc214",
+    "conditions": [
+      "Medication review due (situation)",
+      "Gingivitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of substance use (procedure)",
+      "Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Oral hygiene instruction\n3. Dental prophylaxis\n4. Scaling and root planing\n5. Periodontal evaluation\n6. Fluoride treatment\n7. Dental examination\n8. Oral health education\n9. Antimicrobial therapy for gingivitis\n10. Referral to a periodontist",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n- Gingivitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "1abfb8d8-4b47-20b1-d997-764fc1e1ff10",
+    "patient_id": "9e24368b-f85b-f38f-ae0b-db191e224335",
+    "conditions": [
+      "Gingivitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Assessment of health and social care needs (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Assessment of substance use (procedure)",
+      "Screening for drug abuse (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Dental prophylaxis\n2. Scaling and root planing\n3. Periodontal maintenance\n4. Oral hygiene instruction\n5. Periodontal examination\n6. Tooth extraction (if necessary)\n7. Localized delivery of antimicrobial agents\n8. Periodontal surgery (if indicated)\n9. Fluoride treatment\n10. Dental cleaning",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Gingivitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "a2b5a007-1401-1f03-2a85-7a77ea855613",
+    "patient_id": "bad5a231-3709-952a-cf44-f8d6a52cc214",
+    "conditions": [
+      "Medication review due (situation)",
+      "Part-time employment (finding)",
+      "Gingivitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Sleep apnea assessment (procedure)",
+      "Assessment of health and social care needs (procedure)",
+      "Assessment of anxiety (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Assessment of substance use (procedure)",
+      "Screening for drug abuse (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Oral hygiene instruction\n3. Dental prophylaxis\n4. Scaling and root planing\n5. Periodontal evaluation\n6. Fluoride treatment\n7. Oral examination\n8. Patient education on gingivitis management\n9. Referral to a dentist\n10. Follow-up dental visit",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n- Part-time employment (finding)\n- Gingivitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "58e87088-2e79-4b8b-1bf1-1b0625f349ad",
+    "patient_id": "0fef2411-21f0-a269-82fb-c42b55471405",
+    "conditions": [
+      "Medication review due (situation)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Medication reconciliation\n3. Medication management\n4. Comprehensive medication assessment\n5. Pharmacotherapy consultation\n6. Medication therapy management\n7. Review of medication adherence\n8. Assessment of medication side effects\n9. Evaluation of drug interactions\n10. Patient education on medications",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "e71b9688-8ae8-43b4-bbae-8135ab2566ba",
+    "patient_id": "c1ce8dfc-3c0d-de97-ce0e-5dc0460da340",
+    "conditions": [
+      "Primary dental caries (disorder)"
+    ],
+    "actual_procedures": [
+      "Dental consultation and report (procedure)",
+      "Dental care (regime/therapy)",
+      "Removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)",
+      "Dental plain X-ray bitewing (procedure)",
+      "Examination of gingivae (procedure)",
+      "Restoration of tooth with coverage of all cusps using dental filling material (procedure)",
+      "Dental fluoride treatment (procedure)",
+      "Oral health education (procedure)"
+    ],
+    "predicted_procedures": "1. Dental caries restoration\n2. Dental sealant application\n3. Tooth extraction\n4. Root canal treatment\n5. Dental prophylaxis\n6. Fluoride treatment\n7. Dental filling\n8. Crown placement\n9. Pulpotomy\n10. Periodontal scaling and root planing",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Primary dental caries (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  },
+  {
+    "encounter_id": "cba8b862-fb7c-d9d0-afa9-7489d96f4ba8",
+    "patient_id": "00732e11-5e4d-37b7-01f8-929a25536862",
+    "conditions": [
+      "Medication review due (situation)",
+      "Full-time employment (finding)",
+      "Gingivitis (disorder)"
+    ],
+    "actual_procedures": [
+      "Medication reconciliation (procedure)",
+      "Assessment of health and social care needs (procedure)",
+      "Screening for domestic abuse (procedure)",
+      "Depression screening (procedure)",
+      "Depression screening (procedure)",
+      "Patient referral for dental care (procedure)"
+    ],
+    "predicted_procedures": "1. Medication review\n2. Oral hygiene instruction\n3. Dental prophylaxis\n4. Scaling and root planing\n5. Periodontal evaluation\n6. Fluoride treatment\n7. Dental examination\n8. Oral health education\n9. Periodontal maintenance\n10. Tooth brushing instruction",
+    "prompt": "Given the following patient's medical diagnoses/conditions, predict the most likely SNOMED procedures that would be performed to address these conditions. List up to 5-10 procedures that are most relevant. Do not provide any additional context, only list the name of the SNOMED procedures in a list.\n\n    Patient Conditions:\n    - Medication review due (situation)\n- Full-time employment (finding)\n- Gingivitis (disorder)\n\n\n    Based on these conditions, the most likely procedures are:"
+  }
+]
