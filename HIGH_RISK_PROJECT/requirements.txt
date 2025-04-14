@@ -6,3 +6,5 @@ scikit-learn
 torch
 transformers
 numpy
+jax
+flax
