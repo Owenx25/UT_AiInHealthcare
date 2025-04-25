@@ -9,48 +9,25 @@ Bib\TeX}}}
 
 \begin{document}
 \setcopyright{none}
-% \keywords{Emergency Department, Triage, Machine Learning, Healthcare AI, Fast Track}
-% \begin{CCSXML}
-%     <ccs2012>
-%     <concept>
-%     <concept_id>10010520.10010553.10010562</concept_id>
-%     <concept_desc>Applied computing → Health care information systems</concept_desc>
-%     <concept_significance>500</concept_significance>
-%     </concept>
-%     <concept>
-%     <concept_id>10010520.10010553.10010564</concept_id>
-%     <concept_desc>Applied computing → Health informatics</concept_desc>
-%     <concept_significance>500</concept_significance>
-%     </concept>
-%     <!-- Add additional concepts similarly -->
-%     </ccs2012>
-%     </CCSXML>
-% \end{CCSXML}
-    
-%     \ccsdesc[500]{Applied computing → Health care information systems}
-%     \ccsdesc[500]{Applied computing → Health informatics}
-%     \ccsdesc[300]{Computing methodologies → Machine learning → Machine learning approaches → Neural networks}
-%     \ccsdesc[300]{Computing methodologies → Natural language processing → Text classification}
 
-\title{Prediction of Fast-Track Eligibility in the Emergency Department}
+\begin{titlepage}
+    \centering
+    {\Huge \textbf{Predicting Emergency Department Fast-Track Eligibility}}\\[1.5cm]
+    {\Large \textbf{Owen McCormack}}\\[0.5cm]
+    {\Large \textbf{University of Texas at Austin}}\\[0.5cm]
+    {\Large \textbf{AI in Healthcare High Risk Project}}\\[2cm]
+    \textbf{Useful Links:}\\[0.5cm]
+    \href{https://github.com/Owenx25/UT_AiInHealthcare/blob/main/HIGH_RISK_PROJECT/HIGH_RISK_PROJECT_SLIDES.pptx}{\Large \textcolor{blue}{Power Point Slides}}\\[0.5cm]
+    \href{https://utexas.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4d6b2882-d05e-4678-8bcd-b2ca01171387}{\Large \textcolor{blue}{Video Presentation}}\\[0.5cm]
+    \href{https://github.com/Owenx25/UT_AiInHealthcare/tree/main/HIGH_RISK_PROJECT}{\Large \textcolor{blue}{Code Repository}}\\[0.5cm]
+    \href{https://physionet.org/content/mc-med/1.0.0/data/}{\Large \textcolor{blue}{Data Source}}\\[2cm] 
+\end{titlepage}
 
-%%
-%% The abstract is a short summary of the work to be presented in the
-%% article.
-%% The abstract should instead focus on:
-%    The problem or research question addressed
-%    The approach or methods used
-%    Key findings and their significance
-%    Main conclusions and implications
+\title{Predicting Emergency Department Fast-Track Eligibility}
+
 \begin{abstract}
-A common approach to improve emergency department (ED) patient flow is the usage of fast-track (FT) areas, a special section within the ED staffed by nurse practitioners, physician assistants, or other healthcare staff not in the main ED area. FTs allow staff to promptly address patients with a lower triage acuity, preventing the waiting room from getting congested, and preventing long stays for patients with minor conditions that may be bypassed by those with more critical conditions. With machine learning, incoming patient data could aid triage staff in making a quicker determination whether a patient should be fast-tracked. This paper presents a model capable of making a fast-track recommendation for a patient coming into the ED based on commonly provided patient data such as age, gender, race, initial vital readings, as well as relevant free-text data like chief complaint, home medications, and past medical history through the use of different BERT embeddings. Data sourced from a diverse set of ED visits provided by the MC-MED dataset were used for training and evaluation, with performance on the MC-MED test set showing an AUC-ROC score of around 0.82. In future work, this model and could be extended to make use of additional multi-modal data or even be further built upon for deployment to promote fast-track eligible patients to forgo the ED for urgent care or outpatient facilities.
-
-
-% In a hospital emergency department (ED), time is critical. A patient in a critical emergency condition is not seen right away, they could be at risk of a worsened condition or even death, however many EDs are open 24 hours a day 7 days a week to any patient seeking care which can lead to overcrowding, stunted flow and in turn, worse patient care. One commonly accepted strategy to mitigate overcrowding is the introduction of a Fast-Track (FT) system within the ED that promptly addresses less urgent patient needs
-
-% The Emergency Department, commonly known as the ED, or ER is a critical department of a hospital for patients. It can be the first interaction with medical professionals a patient has with emergent conditions and could significantly influence a patients perception of a hospital and associated care. Since many EDs are open to any patient walk-ins 24 hours a day, 7 days a week, the flow of patients through the services of the department is critical for effective treatment and operational stability. One widely recognized way at improving patient flow and feedback is by introducing a Fast Track section within the ED. The Fast Track area handles patients with a less serious acuity, meaning their condition is not severe enough to require the full resources 
-\end{abstract}
-
+    A common approach to improve emergency department (ED) patient flow is the usage of fast-track (FT) areas, a special section within the ED staffed by nurse practitioners, physician assistants, or other healthcare staff not in the main ED area. FTs allow staff to promptly address patients with a lower triage acuity, preventing the waiting room from getting congested, and preventing long stays for patients with minor conditions that may be bypassed by those with more critical conditions. With machine learning, incoming patient data could aid triage staff in making a quicker determination whether a patient should be fast-tracked. This paper presents a model capable of making a fast-track recommendation for a patient coming into the ED based on commonly provided patient data such as age, gender, race, initial vital readings, as well as relevant free-text data like chief complaint, home medications, and past medical history through the use of different BERT embeddings. Data sourced from a diverse set of ED visits provided by the MC-MED dataset were used for training and evaluation, with performance on the MC-MED test set showing an AUC-ROC score of around 0.82. In future work, this model and could be extended to make use of additional multi-modal data or even be further built upon for deployment to promote fast-track eligible patients to forgo the ED for urgent care or outpatient facilities.
+    \end{abstract}
 \maketitle
 
 \section{Introduction}
