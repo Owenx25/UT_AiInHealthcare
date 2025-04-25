@@ -1,0 +1,11 @@
+pandas
+matplotlib
+plotly
+nbformat>=4.2.0
+scikit-learn
+torch
+transformers
+numpy
+jax
+flax
+seaborn
